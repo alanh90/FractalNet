@@ -1,6 +1,4 @@
-# FractalNet
-
-![FractalNet Logo](images/fractal_readme.webp)
+![FractalNet Logo](images/img.png)
 
 ## Overview
 FractalNet is an innovative project aimed at exploring the intersection of fractal-based neural networks and transformers. This approach seeks to harness the repetitive, self-similar properties of fractals to create neural network architectures that are potentially infinite, more efficient, or capable of achieving better performance on various tasks. The project is in its early stages, focusing on the design, implementation, and evaluation of these novel neural network models.
